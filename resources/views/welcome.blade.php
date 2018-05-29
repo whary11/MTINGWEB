@@ -295,7 +295,7 @@
         <div class="row">
           <div class="col-sm-12 col-md-12">
             <div class="quote wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
-              <div class="icon text-center"> <img src="img/empresas/funes.png" alt="Funes, empresa de compra y venta de maquinaria." />
+              <div class="icon text-center"> <img src="img/empresas/FUNES.png" alt="Funes, empresa de compra y venta de maquinaria." />
                 <div class="author">
                   <h5>Leandro Funes</h5>
                   <span class="meta">CEO Fenes SRL</span> </div>
