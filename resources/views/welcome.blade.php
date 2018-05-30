@@ -3,10 +3,11 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="">
+  <meta name="description" content="En MTINWEB desarrollamos herramientas digitales, estrategias de marketing, posicionamiento en buscadores, publicidad en redes sociales, capacitación en GSUITE.">
+  <meta name="keywords" content="Diseño web responsive, Motores de búsqueda, Google App Script, Aplicativos web, App Web, Google Drive, Capacitación en GSUITE, Como crear Página Web, Enganche de público, Publicidad en facebook, cómo posicionar mi web, Agencia marketing digital, Marketing, Vender en redes sociales, Profesor digital, Social media, HTM, Posicionamiento">
   <meta name="author" content="">
   <link rel="shortcut icon" href="/img/favicon.png">
-  <title>MTIGNWEB</title>
+  <title>MTINGWEB - Google Apps, Desarrollo Web y Marketing Digital</title>
   <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
   <link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
@@ -45,7 +46,7 @@
           <li data-transition="fade"> <img src="/img/mesa-trabajo-mtingweb.jpg" style="opacity: 10" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" />
             <div class="tp-caption main-title sfl" data-x="350" data-y="263" data-speed="600" data-start="500" data-endspeed="100" data-easing="Sine.easeOut"></div>
             <!-- <div class="tp-caption main-title sft" data-x="650" data-y="263" data-speed="600" data-start="1000" data-endspeed="100" data-easing="Sine.easeOut"><strong>MKWEB</strong></div> -->
-            <div class="tp-caption lead sfl text-center" data-x="center" data-y="337" data-speed="600" data-start="1500" data-endspeed="100" data-easing="Sine.easeOut" style="font-family: 'Roboto', sans-serif;font-size:40px;">Diseño y desarrollo de sitios web y Marketing Digital.</div>
+            <div class="tp-caption lead sfl text-center" data-x="center" data-y="337" data-speed="600" data-start="1500" data-endspeed="100" data-easing="Sine.easeOut" style="font-family: 'Roboto', sans-serif;"><h1 style="color:white;">Diseño y desarrollo de sitios web y Marketing Digital.</h1></div>
             <!-- <div class="tp-caption lead sfr text-center" data-x="center" data-y="377" data-speed="600" data-start="2000" data-endspeed="100" data-easing="Sine.easeOut">blog and possibility of unlimited combinations</div> -->
             <!-- <div class="tp-caption sfb" data-x="center" data-y="450" data-speed="600" data-start="2500" data-easing="Sine.easeOut"  data-endspeed="100"><a href="http://elemisfreebies.com/kwoon" class="btn btn-border">Purchase Now</a></div> -->
           </li>
