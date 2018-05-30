@@ -8,11 +8,11 @@
   <meta name="author" content="">
   <link rel="shortcut icon" href="/img/favicon.png">
   <title>MTINGWEB - Google Apps, Desarrollo Web y Marketing Digital</title>
-  <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
   <link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
-  <link href="css/type/icons.css" rel="stylesheet">
-  <link rel="stylesheet" href="/css/main.css">
+  <link href="http://www.mtingweb.com/css/type/icons.css" rel="stylesheet" type='text/css'>
+  <link rel="stylesheet" href="http://www.mtingweb.com/css/main.css">
 </head>
 <body>
 <div class="body-wrapper">
