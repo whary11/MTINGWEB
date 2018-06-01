@@ -46,7 +46,7 @@
           <li data-transition="fade"> <img src="/img/mesa-trabajo-mtingweb.jpg" style="opacity: 10" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" />
             <div class="tp-caption main-title sfl" data-x="350" data-y="263" data-speed="600" data-start="500" data-endspeed="100" data-easing="Sine.easeOut"></div>
             <!-- <div class="tp-caption main-title sft" data-x="650" data-y="263" data-speed="600" data-start="1000" data-endspeed="100" data-easing="Sine.easeOut"><strong>MKWEB</strong></div> -->
-            <div class="tp-caption lead sfl text-center" data-x="center" data-y="337" data-speed="600" data-start="1500" data-endspeed="100" data-easing="Sine.easeOut" style="font-family: 'Roboto', sans-serif;"><h1 style="color:white;font-size:40px;">Diseño y desarrollo de sitios web y Marketing Digital.</h1></div>
+            <div class="tp-caption lead sfl text-center" data-x="center" data-y="337" data-speed="600" data-start="1500" data-endspeed="100" data-easing="Sine.easeOut" style="font-family: 'Roboto', sans-serif;"><h1 style="color:white;font-size:40px !important;">Diseño y desarrollo de sitios web y Marketing Digital.</h1></div>
             <!-- <div class="tp-caption lead sfr text-center" data-x="center" data-y="377" data-speed="600" data-start="2000" data-endspeed="100" data-easing="Sine.easeOut">blog and possibility of unlimited combinations</div> -->
             <!-- <div class="tp-caption sfb" data-x="center" data-y="450" data-speed="600" data-start="2500" data-easing="Sine.easeOut"  data-endspeed="100"><a href="http://elemisfreebies.com/kwoon" class="btn btn-border">Purchase Now</a></div> -->
           </li>
