@@ -22,7 +22,7 @@
         <div class="basic-wrapper"> <a class="btn responsive-menu" data-toggle="collapse" data-target=".navbar-collapse"><i></i></a>
           <div class="navbar-brand">
             <a href="#">
-              <img src="/img/logo-mtingweb.png" width="180" alt="Logo de MTINGWEB" data-src="/img/logo-mtingweb.png" data-ret="img/logo-mtingweb.png" class="retina" alt="Logo de MTINGWEB"/>
+              <img src="/img/logo-mtingweb.png" width="180" alt="Logo de MTINGWEB" data-src="http://www.mtingweb.com/img/logo-mtingweb.png" data-ret="http://www.mtingweb.com/img/logo-mtingweb.png" class="retina" alt="Logo de MTINGWEB"/>
             </a>
           </div>
         </div>
@@ -43,17 +43,11 @@
       <div class="tp-fullscreen">
         <ul>
           <!-- Primera Imagen -->
-          <li data-transition="fade"> <img src="/img/mesa-trabajo-mtingweb.jpg" style="opacity: 10" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" />
+          <li data-transition="fade"> <img src="http://www.mtingweb.com/img/mesa-trabajo-mtingweb.jpg" style="opacity: 10" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" />
             <div class="tp-caption main-title sfl" data-x="350" data-y="263" data-speed="600" data-start="500" data-endspeed="100" data-easing="Sine.easeOut"></div>
-            <!-- <div class="tp-caption main-title sft" data-x="650" data-y="263" data-speed="600" data-start="1000" data-endspeed="100" data-easing="Sine.easeOut"><strong>MKWEB</strong></div> -->
             <div class="tp-caption lead sfl text-center" data-x="center" data-y="337" data-speed="600" data-start="1500" data-endspeed="100" data-easing="Sine.easeOut" style="font-family: 'Roboto', sans-serif;font-size: 40px;">Diseño y desarrollo de sitios web y Marketing Digital.</div>
-            <!-- <div class="tp-caption lead sfr text-center" data-x="center" data-y="377" data-speed="600" data-start="2000" data-endspeed="100" data-easing="Sine.easeOut">blog and possibility of unlimited combinations</div> -->
-            <!-- <div class="tp-caption sfb" data-x="center" data-y="450" data-speed="600" data-start="2500" data-easing="Sine.easeOut"  data-endspeed="100"><a href="http://elemisfreebies.com/kwoon" class="btn btn-border">Purchase Now</a></div> -->
           </li>
-          <li data-transition="fade"> <img src="/img/mtingweb-trabajo.jpg" alt="" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat" />
-            <!-- <div class="tp-caption sft" data-x="20" data-y="350" data-speed="600" data-start="700" data-endspeed="100" data-easing="Sine.easeOut"><img src="style/img/art/slide-bottom.png" alt="" /></div>
-            <div class="tp-caption sft" data-x="20" data-y="250" data-speed="600" data-start="1400" data-endspeed="100" data-easing="Sine.easeOut"><img src="style/img/art/slide-middle.png" alt="" /></div>
-            <div class="tp-caption sft" data-x="20" data-y="150" data-speed="600" data-start="2100" data-endspeed="100" data-easing="Sine.easeOut"><img src="style/img/art/slide-top.png" alt="" /></div> -->
+          <li data-transition="fade"> <img src="http://www.mtingweb.com/img/mtingweb-trabajo.jpg" alt="" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat" />
             <div class="tp-caption main-title sfr" data-x="830" data-y="160" data-speed="500" data-start="2600" data-endspeed="100" data-easing="Sine.easeOut">MTINGWEB</div>
             <div class="tp-caption main-title sfr" data-x="830" data-y="215" data-speed="500" data-start="2600" data-endspeed="100" data-easing="Sine.easeOut"><strong>Estamos listos</strong></div>
             <div class="tp-caption lead sfr" data-x="830" data-y="310" data-speed="500" data-start="3100" data-endspeed="100" data-easing="Sine.easeOut">GSuite</div>
@@ -61,9 +55,7 @@
             <div class="tp-caption lead sfr" data-x="830" data-y="400" data-speed="500" data-start="4100" data-endspeed="100" data-easing="Sine.easeOut">Classroom</div>
             <div class="tp-caption lead sfr" data-x="830" data-y="450" data-speed="500" data-start="4600" data-endspeed="100" data-easing="Sine.easeOut">Google Apps Script</div>
             <div class="tp-caption lead sfr" data-x="830" data-y="500" data-speed="500" data-start="5100" data-endspeed="100" data-easing="Sine.easeOut">Hojas de Cáculo de Google</div>
-            <!-- <div class="tp-caption sfb" data-x="830" data-y="580" data-speed="500" data-start="5600" data-easing="Sine.easeOut"  data-endspeed="100"><a href="#" class="btn">Much More</a></div> -->
-          </li>
-          <li data-transition="fade"> <img src="/img/rs3.jpg" alt="" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat" />
+          <li data-transition="fade"> <img src="http://www.mtingweb.com/img/rs3.jpg" alt="" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat" />
             <div class="tp-caption main-title light-layer sfb" data-x="center" data-y="293" data-speed="900" data-start="800" data-endspeed="100" data-easing="Sine.easeOut">Toda la <strong>Adaptabilidad</strong></div>
             <div class="tp-caption lead light-layer sfb text-center" data-x="center" data-y="387" data-speed="900" data-start="1500" data-endspeed="100" data-easing="Sine.easeOut">Sitios adaptables a todos los dipositivos que desees.</div>
           </li>
@@ -91,7 +83,7 @@
             <div class="carousel carousel-boxed2 steps2">
               <div class="item">
                 <div class="steps-item box text-center"><span class="number"></span>
-                  <div class="icon"> <img src="img/icons/desarrollador-web-mtingweb.png" data-src="img/icons/desarrollador-web-mtingweb.png" data-ret="img/icons/desarrollador-web-mtingweb.png" class="retina" alt="Logo de desarrollo web" /> </div>
+                  <div class="icon"> <img src="http://www.mtingweb.com/img/icons/desarrollador-web-mtingweb.png" data-src="http://www.mtingweb.com/img/icons/desarrollador-web-mtingweb.png" data-ret="img/icons/desarrollador-web-mtingweb.png" class="retina" alt="Logo de desarrollo web" /> </div>
                   <h4>Diseño y Desarrollo Web</h4>
                   <p>Sabemos que todo está migrando hacia la web y para esto necesitas tener la herramienta precisa para tu empresa. Nosotros ponemos en marcha tus ideas y las convertimos en maravillosos aplicativos web.
                   </p>
@@ -101,7 +93,7 @@
               <!--/.item -->
               <div class="item">
                 <div class="steps-item box text-center"><span class="number"></span>
-                  <div class="icon"> <img src="img/icons/marketing-web-mtingweb.png" data-src="img/icons/marketing-web-mtingweb.png" data-ret="img/icons/marketing-web-mtingweb.png" class="retina" alt="Logo de Marketing Digital" /> </div>
+                  <div class="icon"> <img src="http://www.mtingweb.com/img/icons/marketing-web-mtingweb.png" data-src="http://www.mtingweb.com/img/icons/marketing-web-mtingweb.png" data-ret="img/icons/marketing-web-mtingweb.png" class="retina" alt="Logo de Marketing Digital" /> </div>
                   <h4>Marketing Digital</h4>
                   <p>Llevaremos tus servicios y productos al mundo digital. Con ayuda de nosotros podrás identificar y satisfacer las necesidades de tus clientes y de esta misma manera cumplir con los objetivos que te hayas establecido.</p>
                 </div>
@@ -110,14 +102,14 @@
               <!--/.item -->
               <div class="item">
                 <div class="steps-item box text-center"><span class="number"></span>
-                  <div class="icon"> <img src="img/icons/google-drive-mtingweb.png" data-src="img/icons/google-drive-mtingweb.png" data-ret="img/icons/google-drive-mtingweb.png" class="retina" alt="Logo de Google Drive" /> </div>
+                  <div class="icon"> <img src="http://www.mtingweb.com/img/icons/google-drive-mtingweb.png" data-src="http://www.mtingweb.com/img/icons/google-drive-mtingweb.png" data-ret="img/icons/google-drive-mtingweb.png" class="retina" alt="Logo de Google Drive" /> </div>
                   <h4>Google Drive</h4>
                   <p>Si necesitas capacitar a tu equipo en esta potente herramienta que ofrece Google y que además es gratuita, estás en el lugar correcto y lo podemos hacer presencial u online “siempre en vivo”.</p>
                 </div>
               </div>
               <div class="item">
                 <div class="steps-item box text-center"><span class="number"></span>
-                  <div class="icon"> <img src="img/icons/google-apps-script-mtingweb.png" data-src="img/icons/google-apps-script-mtingweb.png" data-ret="img/icons/google-apps-script-mtingweb.png" class="retina" alt="Logo de Google Apps Script" /> </div>
+                  <div class="icon"> <img src="img/icons/google-apps-script-mtingweb.png" data-src="img/icons/google-apps-script-mtingweb.png" data-ret="http://www.mtingweb.com/img/icons/google-apps-script-mtingweb.png" class="retina" alt="Logo de Google Apps Script" /> </div>
                   <h4>Programación en Google Apps Script</h4>
                   <p>Si lo que quieres es automatizar procesos en Google Drive que además en su stack incorpora a Gmail, Calendario, Documents, Hojas de Cálculo y más. <br>Animate y contactanos.</p>
                 </div>
@@ -248,7 +240,7 @@
       <div class="carousel-wrapper wow fadeIn" data-wow-duration="1s" data-wow-delay="0.3s">
         <div class="carousel carousel-boxed team wow zoomInDown">
           <div class="item">
-            <figure><img src="img/jobs/LuisFernandoRagamtingweb.png" alt="Luis Fernando Raga Renteria, Desarrollador web en mtingweb" /></figure>
+            <figure><img src="http://www.mtingweb.com/img/jobs/LuisFernandoRagamtingweb.png" alt="Luis Fernando Raga Renteria, Desarrollador web en mtingweb" /></figure>
             <div class="box text-center">
               <h4 class="post-title">Luis Fernando Raga</h4>
               <span class="meta">Developers - CEO</span>
@@ -261,7 +253,7 @@
             </div>
           </div>
           <div class="item">
-            <figure><img src="img/jobs/yovannyRagaRenteria_mtingweb.png" alt="Yovanny Raga Renteria, Marqueting Digital en MTINGWEB" /></figure>
+            <figure><img src="http://www.mtingweb.com/img/jobs/yovannyRagaRenteria_mtingweb.png" alt="Yovanny Raga Renteria, Marqueting Digital en MTINGWEB" /></figure>
             <div class="box text-center">
               <h4 class="post-title">Yovanny Raga</h4>
               <span class="meta">Marketing Digital - CEO</span>
@@ -274,7 +266,7 @@
             </div>
           </div>
           <div class="item">
-            <figure><img src="img/art/team3.jpg" alt="" /></figure>
+            <figure><img src="http://www.mtingweb.com/img/art/team3.jpg" alt="" /></figure>
             <div class="box text-center">
               <h4 class="post-title">David Raga</h4>
               <span class="meta">Ingeniero de Sistemas</span>
@@ -373,5 +365,5 @@
  </body>
 
 <!--/.script -->
-<script src="/js/main.js"></script>
+<script src="http://www.mtingweb.com/js/main.js"></script>
 </html>
