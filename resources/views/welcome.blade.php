@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, user-scalable=no">
   <meta name="description" content="En MTINWEB desarrollamos herramientas digitales, estrategias de marketing, posicionamiento en buscadores, publicidad en redes sociales, capacitación en GSUITE.">
   <meta name="keywords" content="Diseño web responsive, Motores de búsqueda, Google App Script, Aplicativos web, App Web, Google Drive, Capacitación en GSUITE, Como crear Página Web, Enganche de público, Publicidad en facebook, cómo posicionar mi web, Agencia marketing digital, Marketing, Vender en redes sociales, Profesor digital, Social media, HTM, Posicionamiento">
   <meta name="author" content="">
@@ -340,8 +340,8 @@
         <div class="col-sm-6">
           <div class="widget">
           <div class="contact-info text-center">
-              <i class="icon-phone"></i>+00 (123) 456 78 90 <br />
-              <i class="icon-mail"></i> <a href="#">proyectos@mtingweb.com</a>
+              <i class="icon-phone"></i>3043788629<br />
+              <i class="icon-mail"></i> <a href="#">mtingweb@gmail.com</a>
           </div>
         </div>
 
