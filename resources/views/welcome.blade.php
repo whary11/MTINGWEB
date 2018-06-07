@@ -189,7 +189,7 @@
           <div class="feature">
             <div class="icon"> <i class="budicon-printer-1"></i> </div>
             <h4>Google Adwords</h4>
-            <p>Curabitur blandit tempus porttitor. Nulla vitae elit libero, a pharetra augue.</p>
+            <p>Te garantizamos una excelente publicidad para tu negocio y por encima de tu competencia.</p>
           </div>
           <!--/.feature -->
         </div>
@@ -201,7 +201,7 @@
           <div class="feature">
             <div class="icon"> <i class="budicon-drop"></i> </div>
             <h4>Facebook Ads</h4>
-            <p>Curabitur blandit tempus porttitor. Nulla vitae elit libero, a pharetra augue.</p>
+            <p>Promocionamos tu página de Facebook, Sitio Web, aplicaciones y eventos.</p>
           </div>
           <!--/.feature -->
         </div>
