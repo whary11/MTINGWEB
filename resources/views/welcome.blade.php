@@ -266,7 +266,7 @@
             </div>
           </div>
           <div class="item">
-            <figure><img src="http://www.mtingweb.com/img/art/team3.jpg" alt="" /></figure>
+            <figure><img src="http://www.mtingweb.com/img/jobs/davidRagaRenteria_mringweb.png" alt="David Raga Renteria, Ingeniero en MTINGWEB" /></figure>
             <div class="box text-center">
               <h4 class="post-title">David Raga</h4>
               <span class="meta">Ingeniero de Sistemas</span>
